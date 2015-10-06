@@ -1,2 +1,4 @@
-# intro-oct-2015
-Repository for 7 October Introduction to GitHub class
+# Introduction to GitHub
+## October 7, 2015
+
+Repository for Introduction to GitHub class
